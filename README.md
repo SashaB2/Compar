@@ -1,7 +1,9 @@
 # Compar
+add to:
 
+use Compar\CodeceptionCompar\JsonContains;
 
-add to "class General"
+"class General"
 
 public function seeResponseContainsJsonCompare($json = [])
     {
